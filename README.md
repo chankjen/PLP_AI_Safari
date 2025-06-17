@@ -1,4 +1,4 @@
-![AI_Safari](https://github.com/user-attachments/assets/5194daba-c7c6-491c-9928-f99ff062e9a0)
+![PLP_Logo](https://github.com/user-attachments/assets/6ca779e6-5f3c-40dd-82b5-5cfb828eabbd)
 
 Here’s a simple yet powerful use case for **Adaora**, an entrepreneur launching **"Ubuntu Farms"**—a tech-driven agribusiness startup connecting smallholder farmers in Nigeria with urban markets via sustainable, AI-optimized supply chains.  
 
